@@ -26,6 +26,9 @@
     color: white;
   text-decoration: none;
   }
+  nav ul li a:hover{
+    color: yellow;
+  }
   .write{
     color: white;
   }
@@ -34,4 +37,8 @@
   }
   .but{
     background-color: red;
+  }
+  .main{
+    color: white;
+    padding-top: 20px;
   }
