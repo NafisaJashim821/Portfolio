@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: "Josefin Sans", sans-serif;
     
   }
   .hero {
@@ -39,6 +40,43 @@
     background-color: red;
   }
   .main{
-    color: white;
-    padding-top: 20px;
+    position: relative;
+    top: 20%;
+    left: 10%;
+    
   }
+  h3{
+    color: white;
+    padding-top: 10px;
+   
+  }
+  h1{
+    color: white;
+  }
+  .iform{
+    position: relative;
+    top: 20px;
+  }
+  .go{
+    background-color: red;
+  }
+.second{
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #191919;
+}
+.second img{
+    height: auto;
+}
+.pic{
+    margin: 0 auto ;
+    max-width: 95%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.text{
+    color: white;
+    padding-left: 20px;
+}
